@@ -1,0 +1,16 @@
+{
+  "name": "ヨーロッパへ — 三都市をめぐる旅の記録",
+  "short_name": "Europe Trip",
+  "description": "Roma · Barcelona · Paris の旅行記",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a1510",
+  "theme_color": "#1a1510",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
